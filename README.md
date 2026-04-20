@@ -47,5 +47,5 @@ Based on these insights gained, the following recommendations are made to the bu
 **Business Intelligence & Insights:** Translating raw SQL results into actionable business recommendations
 
 ## Next Steps:
-* Build an interactive dashboard (Power BI / Tableau) to visualize revenue trends, regional performance, and top products.
-* Incorporate time-series analysis to better understand seasonality and trends over time.
+* Build an interactive dashboard (Power BI / Tableau) to visualize revenue trends, regional performance, and top products
+* Incorporate time-series analysis to better understand seasonality and trends over time
