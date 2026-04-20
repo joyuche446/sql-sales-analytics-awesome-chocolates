@@ -10,6 +10,7 @@ The company wants to:
 ## Dataset Source & Overview:
 
 Dataset: Awesome Chocolates
+
 Source: Chandoo.org.
 While the dataset originates from Chandoo.org, all analysis, queries and insights were independently developed to demonstrate analytical thinking and problem-solving skills.
 The dataset consists of the following tables:
