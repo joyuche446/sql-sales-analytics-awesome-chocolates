@@ -19,4 +19,6 @@ The dataset consists of the following tables:
 *	sales – transaction data (Boxes sold, Amount, Date) 
 *	people – sales representatives 
 *	geo – regional data
+## Methodology:
+The analysis was performed using SQL by first exploring and understanding the dataset structure. Multiple tables from the dataset were combined using joins for comprehensive data analysis. Aggregation functions such as SUM, AVG, and COUNT were applied to calculate key metrics and queries were designed to answer specific business questions related to revenue, performance, and trends.
 
