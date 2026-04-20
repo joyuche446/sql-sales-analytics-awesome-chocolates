@@ -66,6 +66,8 @@ LIMIT 5;
 
 Insight: Identifies key contributors driving company revenue.
 
+Full Queries at https://github.com/joyuche446/sql-sales-analytics-awesome-chocolates/blob/main/Awesome_chocolates.sql
+
 ## Key Insights & Recommendations
 *Insights:*
 * Orange Choco is the highest revenue-generating product
