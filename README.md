@@ -8,6 +8,7 @@ The company wants to:
 *	Evaluate salesperson performance 
 *	Discover sales trends over time
 ## Dataset Source & Overview:
+
 Dataset: Awesome Chocolates
 Source: Chandoo.org.
 While the dataset originates from Chandoo.org, all analysis, queries and insights were independently developed to demonstrate analytical thinking and problem-solving skills.
