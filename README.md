@@ -22,6 +22,17 @@ The dataset consists of the following tables:
 ## Methodology:
 The analysis was performed using SQL by first exploring and understanding the dataset structure. Multiple tables from the dataset were combined using joins for comprehensive data analysis. Aggregation functions such as SUM, AVG, and COUNT were applied to calculate key metrics and queries were designed to answer specific business questions related to revenue, performance, and trends.
 ## Queries & Analysis:
+Top Revenue-Generating Product
+SELECT 
+    p.Product,
+    SUM(s.Boxes) AS Total_Boxes_Sold,
+    SUM(p.Cost_per_box * s.Boxes) AS Revenue
+FROM products p
+JOIN sales s ON p.PID = s.PID
+GROUP BY p.Product
+ORDER BY Revenue DESC;
+
+Insight: Identifies the product generating the highest revenue based on total sales value.
 ## Key Insights & Recommendations
 *Insights:*
 * Orange Choco is the highest revenue-generating product
