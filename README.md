@@ -23,12 +23,13 @@ The dataset consists of the following tables:
 The analysis was performed using SQL by first exploring and understanding the dataset structure. Multiple tables from the dataset were combined using joins for comprehensive data analysis. Aggregation functions such as SUM, AVG, and COUNT were applied to calculate key metrics and queries were designed to answer specific business questions related to revenue, performance, and trends.
 ## Queries & Analysis:
 ## Key Insights & Recommendations
-*Results:*
+*Insights:*
 * Orange Choco is the highest revenue-generating product
 * APAC is the top-performing region in terms of sales
 * Revenue is concentrated among a few high-performing salespeople
 * January records the highest sales, indicating a seasonal trend
-  *Recommendations:*
+
+*Recommendations:*
 Based on these insights gained, the following recommendations are made to the business:
 *	Product Focus: Increase marketing and inventory for Orange Choco to maximize revenue 
 *	Regional Strategy: Invest more in the APAC region to capitalize on strong demand 
