@@ -27,6 +27,7 @@ The analysis was performed using SQL by first exploring and understanding the da
 * APAC is the top-performing region in terms of sales
 * Revenue is concentrated among a few high-performing salespeople
 * January records the highest sales, indicating a seasonal trend
+** Recommendations:**
 Based on these insights gained, the following recommendations are made to the business:
 *	Product Focus: Increase marketing and inventory for Orange Choco to maximize revenue 
 *	Regional Strategy: Invest more in the APAC region to capitalize on strong demand 
