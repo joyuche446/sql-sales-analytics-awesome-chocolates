@@ -21,8 +21,14 @@ The dataset consists of the following tables:
 *	geo – regional data
 ## Methodology:
 The analysis was performed using SQL by first exploring and understanding the dataset structure. Multiple tables from the dataset were combined using joins for comprehensive data analysis. Aggregation functions such as SUM, AVG, and COUNT were applied to calculate key metrics and queries were designed to answer specific business questions related to revenue, performance, and trends.
-## Key Queries & Analysis:
+## Queries & Analysis:
 ## Key Insights & Recommendations
+*	Product Focus: Increase marketing and inventory for Orange Choco to maximize revenue 
+*	Regional Strategy: Invest more in the APAC region to capitalize on strong demand 
+*	Sales Optimization: Analyze top-performing salespeople and replicate their strategies across the team 
+*	Seasonal Planning: Prepare inventory and campaigns ahead of January to take advantage of peak sales 
+
+
 ## Skills Demonstrated:
 ## Next Steps:
 
