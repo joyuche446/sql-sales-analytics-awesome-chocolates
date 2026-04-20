@@ -35,8 +35,12 @@ Based on these insights gained, the following recommendations are made to the bu
 *	Regional Strategy: Invest more in the APAC region to capitalize on strong demand 
 *	Sales Optimization: Analyze top-performing salespeople and replicate their strategies across the team 
 *	Seasonal Planning: Prepare inventory and campaigns ahead of January to take advantage of peak sales 
-
-
 ## Skills Demonstrated:
+**SQL Data Analysis:** Extracting and analyzing business insights from relational sales data 
+**Joins (INNER & LEFT JOIN):**  Combining multiple tables to build complete datasets for analysis 
+**Aggregate Functions:**  Using SUM(), AVG(), and COUNT() to calculate key business KPIs 
+**Data Aggregation & Grouping:**  Applying GROUP BY to analyze performance by product, region, and salesperson 
+**Business Intelligence & Insights:** Translating raw SQL results into actionable business recommendations
+
 ## Next Steps:
 
