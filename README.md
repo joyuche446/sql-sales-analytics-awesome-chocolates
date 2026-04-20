@@ -26,9 +26,13 @@ The analysis was performed using SQL by first exploring and understanding the da
 SELECT 
     p.Product,
     SUM(p.Cost_per_box * s.Boxes) AS Revenue
+
 FROM products p
+
 JOIN sales s ON p.PID = s.PID
+
 GROUP BY p.Product
+
 ORDER BY Revenue DESC;
 
 Insight: Identifies the highest revenue-generating product for prioritization in marketing and inventory strategy.
@@ -36,7 +40,9 @@ Insight: Identifies the highest revenue-generating product for prioritization in
 2. Total Company Revenue
 SELECT 
     SUM(p.Cost_per_box * s.Boxes) AS Total_Revenue
+
 FROM products p
+
 JOIN sales s ON p.PID = s.PID;
 
 Insight: Shows overall business performance in monetary terms.
