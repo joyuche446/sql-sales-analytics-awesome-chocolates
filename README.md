@@ -22,7 +22,7 @@ The dataset consists of the following tables:
 ## Methodology:
 The analysis was performed using SQL by first exploring and understanding the dataset structure. Multiple tables from the dataset were combined using joins for comprehensive data analysis. Aggregation functions such as SUM, AVG, and COUNT were applied to calculate key metrics and queries were designed to answer specific business questions related to revenue, performance, and trends.
 ## Queries & Analysis:
-1. Top Revenue-Generating Product
+**1. Top Revenue-Generating Product:**
 
 SELECT 
     p.Product,
@@ -38,7 +38,7 @@ ORDER BY Revenue DESC;
 
 Insight: Identifies the highest revenue-generating product for prioritization in marketing and inventory strategy.
 
-2. Total Company Revenue
+**2. Total Company Revenue:**
 
 SELECT 
     SUM(p.Cost_per_box * s.Boxes) AS Total_Revenue
@@ -49,7 +49,7 @@ JOIN sales s ON p.PID = s.PID;
 
 Insight: Shows overall business performance in monetary terms.
 
-3.  Revenue by Region
+**3.  Revenue by Region:**
 
 SELECT 
     g.Region,
@@ -67,7 +67,7 @@ ORDER BY Revenue DESC;
 
 Insight: Highlights APAC as the strongest performing region.
 
-4. Top 5 Salespeople by Revenue
+**4. Top 5 Salespeople by Revenue:**
 
 SELECT 
     pe.Salesperson,
