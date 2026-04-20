@@ -66,7 +66,6 @@ LIMIT 5;
 
 Insight: Identifies key contributors driving company revenue.
 
-Insight: Identifies the product generating the highest revenue based on total sales value.
 ## Key Insights & Recommendations
 *Insights:*
 * Orange Choco is the highest revenue-generating product
