@@ -38,7 +38,7 @@ The analysis was performed using SQL by first exploring and understanding the da
 - SQL Data Analysis: Extracted business insights from relational sales data
 - Joins (INNER & LEFT): Combined multiple tables for complete analysis
 - Aggregate Functions: Used SUM(), AVG(), COUNT() for KPI calculations
-- Data Aggregation & Grouping: Applied GROUP BY for column insights
+- Data Aggregation & Grouping: Applied GROUP BY to analyze performance across dimensions
 
 
 ## Next Steps:
