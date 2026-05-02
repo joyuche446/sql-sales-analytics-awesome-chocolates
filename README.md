@@ -25,10 +25,10 @@ SQL analysis was performed using joins across multiple tables, along with aggreg
 ![View Full SQL Queries](Awesome_chocolates.sql)
 ## Key Insights & Recommendations
 ### Insights
-- Top product: Orange Choco is highest revenue contributor
-- Top region: APAC is the #1 in total sales
-- Sales concentration: Top 5 salespeople drive a significant share of revenue (>$2M combined)
-- Seasonality: January records the highest sales (~$1.8M)
+- Top product: Orange Choco with highest revenue $....
+- Top region: APAC with top sales $..
+- Sales concentration: Top 5 salespeople generate >$...revenue
+- Seasonality: January is peak month (~$1.8M sales)
 ### Recommendations
 - Prioritise Orange Choco (highest revenue driver)
 - Increase investment in APAC (top-performing region)
