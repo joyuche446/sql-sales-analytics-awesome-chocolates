@@ -101,15 +101,11 @@ Full Queries at https://github.com/joyuche446/sql-sales-analytics-awesome-chocol
 - Scale strategies of top 5 salespeople across team
 - Increase stock + campaigns ahead of January peak
 ## Skills Demonstrated:
-**SQL Data Analysis:** Extracting and analyzing business insights from relational sales data 
+- SQL Data Analysis: Extracted business insights from relational sales data
+- Joins (INNER & LEFT): Combined multiple tables for complete analysis
+- Aggregate Functions: Used SUM(), AVG(), COUNT() for KPI calculations
+- Data Aggregation & Grouping: Applied GROUP BY for product, region, and salesperson insights
 
-**Joins (INNER & LEFT JOIN):**  Combining multiple tables to build complete datasets for analysis 
-
-**Aggregate Functions:**  Using SUM(), AVG(), and COUNT() to calculate key business KPIs 
-
-**Data Aggregation & Grouping:**  Applying GROUP BY to analyze performance by product, region, and salesperson 
-
-**Business Intelligence & Insights:** Translating raw SQL results into actionable business recommendations
 
 ## Next Steps:
 * Build an interactive dashboard (Power BI / Tableau) to visualize revenue trends, regional performance, and top products
