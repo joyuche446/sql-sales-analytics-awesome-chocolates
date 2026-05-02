@@ -1,6 +1,6 @@
 # SQL Sales Analytics Project: Revenue Insights & Business Intelligence
 ## Project Overview:
-This project analyzes sales data from the Awesome Chocolates company to uncover key revenue drivers, top-performing products, regions, and salespeople. The goal is to generate actionable insights to support business decision-making in marketing, sales, and inventory management.
+This project presents an SQL-based analysis of the Awesome Chocolates sales data to identify key revenue drivers, top-performing products, regions, and salesperson performance. It generates actionable insights to support decision-making in marketing, sales, and inventory management.
 ## Business Problem:
 The company wants to:
 *	Identify top-performing products 
@@ -9,16 +9,16 @@ The company wants to:
 *	Discover sales trends over time
 ## Dataset Source & Overview:
 
-Dataset: Awesome Chocolates
+Dataset: Awesome Chocolates (source: Chandoo.org)
 
-Source: Chandoo.org.
+The dataset includes:
 
-While the dataset originates from Chandoo.org, all analysis, queries and insights were independently developed to demonstrate analytical thinking and problem-solving skills.
-The dataset consists of the following tables:
-*	products – product details (Product, Category, Cost per box) 
-*	sales – transaction data (Boxes sold, Amount, Date) 
-*	people – sales representatives 
-*	geo – regional data
+- Products: product details (category, cost per box)
+- Sales: transaction data (boxes sold, amount, date)
+- People: sales representatives
+- Geo: regional data
+
+All analysis and insights were independently developed.
 ## Methodology:
 The analysis was performed using SQL by first exploring and understanding the dataset structure. Multiple tables from the dataset were combined using joins for comprehensive data analysis. Aggregation functions such as SUM, AVG, and COUNT were applied to calculate key metrics and queries were designed to answer specific business questions related to revenue, performance, and trends.
 ## Queries & Analysis:
