@@ -22,23 +22,7 @@ All analysis and insights were independently developed.
 ## Methodology:
 The analysis was performed using SQL by first exploring and understanding the dataset structure. Multiple tables from the dataset were combined using joins for comprehensive data analysis. Aggregation functions such as SUM, AVG, and COUNT were applied to calculate key metrics and queries were designed to answer specific business questions related to revenue, performance, and trends.
 ## SQL Queries:
-**Top Revenue-Generating Product:**
-
-SELECT 
-    p.Product,
-    SUM(p.Cost_per_box * s.Boxes) AS Revenue
-
-FROM products p
-
-JOIN sales s ON p.PID = s.PID
-
-GROUP BY p.Product
-
-ORDER BY Revenue DESC;
-
-Insight: Identifies the highest revenue-generating product for prioritization in marketing and inventory strategy.
 ![View Full SQL Queries](Awesome_chocolates.sql)
-
 ## Key Insights & Recommendations
 ### Insights
 - Top product: Orange Choco is highest revenue contributor
