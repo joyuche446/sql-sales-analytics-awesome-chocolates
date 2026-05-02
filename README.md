@@ -13,14 +13,14 @@ Dataset: Awesome Chocolates (source: Chandoo.org)
 
 The dataset includes:
 
-- Products: product details (category, cost per box)
-- Sales: transaction data (boxes sold, amount, date)
-- People: sales representatives
-- Geo: regional data
+- Products- product details (category, cost per box)
+- Sales- transactions (boxes sold, amount, date)
+- People- sales representatives
+- Geo- regional data
 
 All analysis and insights were independently developed.
 ## Methodology:
-The analysis was performed using SQL by first exploring and understanding the dataset structure. Multiple tables from the dataset were combined using joins for comprehensive data analysis. Aggregation functions such as SUM, AVG, and COUNT were applied to calculate key metrics and queries were designed to answer specific business questions related to revenue, performance, and trends.
+SQL analysis was performed using joins across multiple tables, along with aggregation functions (SUM, AVG, COUNT) to calculate KPIs and answer business questions related to revenue, performance, and trends.
 ## SQL Queries:
 ![View Full SQL Queries](Awesome_chocolates.sql)
 ## Key Insights & Recommendations
