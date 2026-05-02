@@ -30,8 +30,8 @@ SQL analysis was performed using joins across multiple tables, along with aggreg
 - Sales concentration: Top 5 salespeople generate >$...revenue
 - Seasonality: January is peak month (~$1.8M sales)
 ### Recommendations
-- Prioritise Orange Choco (highest revenue driver)
-- Increase investment in APAC (top-performing region)
+- Prioritise Orange Choco product
+- Increase investment in APAC region
 - Scale strategies of top 5 salespeople across team
 - Increase stock + campaigns ahead of January peak
 ## Skills Demonstrated:
