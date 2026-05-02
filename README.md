@@ -38,9 +38,9 @@ The analysis was performed using SQL by first exploring and understanding the da
 - SQL Data Analysis: Extracted business insights from relational sales data
 - Joins (INNER & LEFT): Combined multiple tables for complete analysis
 - Aggregate Functions: Used SUM(), AVG(), COUNT() for KPI calculations
-- Data Aggregation & Grouping: Applied GROUP BY for product, region, and salesperson insights
+- Data Aggregation & Grouping: Applied GROUP BY for column insights
 
 
 ## Next Steps:
 * Build an interactive dashboard (Power BI / Tableau) to visualize revenue trends, regional performance, and top products
-* Incorporate time-series analysis to better understand seasonality and trends over time
+
