@@ -25,7 +25,7 @@ SQL analysis was performed using joins across multiple tables, along with aggreg
 ![View Full SQL Queries](Awesome_chocolates.sql)
 ## Key Insights & Recommendations
 ### Insights
-- Top product: Orange Choco with highest revenue $....
+- Top product: Orange Choco with highest revenue **$1,372,229**
 - Top region: APAC with top sales $..
 - Sales concentration: Top 5 salespeople generate >$...revenue
 - Seasonality: January is peak month (~$1.8M sales)
