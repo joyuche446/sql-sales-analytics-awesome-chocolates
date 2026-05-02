@@ -90,18 +90,16 @@ Insight: Identifies key contributors driving company revenue.
 Full Queries at https://github.com/joyuche446/sql-sales-analytics-awesome-chocolates/blob/main/Awesome_chocolates.sql
 
 ## Key Insights & Recommendations
-*Insights:*
-* Orange Choco is the highest revenue-generating product
-* APAC is the top-performing region in terms of sales
-* Revenue is concentrated among a few high-performing salespeople
-* January records the highest sales, indicating a seasonal trend
-
-*Recommendations:*
-Based on these insights gained, the following recommendations are made to the business:
-*	Product Focus: Increase marketing and inventory for Orange Choco to maximize revenue 
-*	Regional Strategy: Invest more in the APAC region to capitalize on strong demand 
-*	Sales Optimization: Analyze top-performing salespeople and replicate their strategies across the team 
-*	Seasonal Planning: Prepare inventory and campaigns ahead of January to take advantage of peak sales 
+### Insights
+- Top product: Orange Choco is highest revenue contributor
+- Top region: APAC is the #1 in total sales
+- Sales concentration: Top 5 salespeople drive a significant share of revenue (>$2M combined)
+- Seasonality: January records the highest sales (~$1.8M)
+### Recommendations
+- Prioritise Orange Choco (highest revenue driver)
+- Increase investment in APAC (top-performing region)
+- Scale strategies of top 5 salespeople across team
+- Increase stock + campaigns ahead of January peak
 ## Skills Demonstrated:
 **SQL Data Analysis:** Extracting and analyzing business insights from relational sales data 
 
