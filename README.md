@@ -27,9 +27,9 @@ SQL analysis was performed using joins across multiple tables, along with aggreg
 ### Insights
 - Total Revenue: **$9.7M**
 - Top product: Orange Choco with highest revenue **$1.3M (14%)**
-- Top region: APAC with top sales **$4.9M (51%)**
+- Top region: APAC with top sales **$4.9M (51%)** of total revenue
 - Salesperson: Top 5 salespeople generate **21%** of total revenue
-- Seasonality: January is peak month **$1.8M (18.6% sales)**
+- Seasonality: January is peak month **$1.8M (18.6%)** of total revenue
 ### Recommendations
 - Prioritise Orange Choco product
 - Increase investment in APAC region
